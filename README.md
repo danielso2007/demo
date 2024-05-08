@@ -5,8 +5,8 @@
 
 ## Meus exemplos
 
-[https://my-json-server.typicode.com/danielso2007/demo/db](https://my-json-server.typicode.com/danielso2007/demo/db)
-[https://my-json-server.typicode.com/danielso2007/demo/db](https://my-json-server.typicode.com/danielso2007/demo/pessoas)
+[https://my-json-server.typicode.com/danielso2007/demo/pessoas/1](https://my-json-server.typicode.com/danielso2007/demo/pessoas/1)
+[[https://my-json-server.typicode.com/danielso2007/demo/db](https://my-json-server.typicode.com/danielso2007/demo/pessoas)]([https://my-json-server.typicode.com/danielso2007/demo/db](https://my-json-server.typicode.com/danielso2007/demo/pessoas))
 
 ## Use your own data
 
